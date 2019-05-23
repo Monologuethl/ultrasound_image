@@ -14,7 +14,6 @@ paths_dcm.sort()
 print(paths_png)
 print(paths_dcm)
 
-
 j = 0
 for size in range(len(paths_png)):
     ds = pydicom.read_file(paths_dcm[size])
