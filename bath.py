@@ -35,4 +35,3 @@ for size in range(len(paths_png)):
 
 # pylab.imshow(ds.pixel_array, cmap=pylab.cm.bone)
 # pylab.show()
-# https://github.com/Monologuethl/Ultrasound_image
