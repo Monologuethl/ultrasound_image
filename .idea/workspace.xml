@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7a097e5-92d3-49e9-b045-33ee8d18cf10" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/bath.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/dicom/batch_generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/change_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ultrasound_image/change_name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/cv2_canny_edge_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ultrasound_image/cv2_canny_edge_detection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/cv2_canny_edge_exercise1.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ultrasound_image/cv2_canny_edge_exercise1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/cv2_erosion_dilation.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ultrasound_image/cv2_erosion_dilation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/cv2_histogram.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ultrasound_image/cv2_histogram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/cv2_image_gradient.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ultrasound_image/cv2_image_gradient.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/cv2_otsu_thresholding.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ultrasound_image/cv2_otsu_thresholding.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/cv2_thresholding.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ultrasound_image/cv2_thresholding.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/cv_region_grow.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ultrasound_image/cv_region_grow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/cv_watershed.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ultrasound_image/cv_watershed.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,15 +68,34 @@
           <entry key="PLAIN_TEXT" value="14" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="4" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/code/dicom/batch_generator.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/ultrasound_image/k-means/k-means00.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-391">
-              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+            <state relative-caret-position="95">
+              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code/ultrasound_image/k-means/k-means01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -150,6 +159,19 @@
               <item name="ultrasound_image" type="b2602c69:ProjectViewProjectNode" />
               <item name="ultrasound_image" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ultrasound_image" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ultrasound_image" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="ultrasound_image" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ultrasound_image" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ultrasound_image" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="ultrasound_image" type="462c0819:PsiDirectoryNode" />
+              <item name="k-means" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -335,25 +357,40 @@
       <option name="project" value="LOCAL" />
       <updated>1558601627498</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="更新">
+      <created>1558601935844</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1558601935844</updated>
+    </task>
+    <task id="LOCAL-00004" summary="更新">
+      <created>1558602142749</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1558602142749</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49925596" visible="true" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3990307" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" visible="true" weight="0.3277311" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50074404" side_tool="true" weight="0.4" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -374,21 +411,21 @@
     <entry file="file://$PROJECT_DIR$/image/3.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/cv2_otsu_thresholding.py">
+    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/cv/cv2_otsu_thresholding.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/cv2_image_gradient.py">
+    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/cv/cv2_image_gradient.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/cv2_canny_edge_detection.py">
+    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/cv/cv2_canny_edge_detection.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
@@ -420,14 +457,14 @@
     <entry file="file://$PROJECT_DIR$/image/1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/cv2_canny_edge_exercise1.py">
+    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/cv/cv2_canny_edge_exercise1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/cv_watershed.py">
+    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/cv/cv_watershed.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
@@ -437,35 +474,35 @@
     <entry file="file://$PROJECT_DIR$/image/5_1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/change_name.py">
+    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/cv/change_name.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/cv2_histogram.py">
+    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/cv/cv2_histogram.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
           <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/cv_region_grow.py">
+    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/cv/cv_region_grow.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/cv2_erosion_dilation.py">
+    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/cv/cv2_erosion_dilation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/cv2_thresholding.py">
+    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/cv/cv2_thresholding.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="455">
           <caret line="55" selection-start-line="55" selection-end-line="55" />
@@ -479,6 +516,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-391">
           <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/k-means/k-means00.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/k-means/k-means01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
